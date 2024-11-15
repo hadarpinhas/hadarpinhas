@@ -6,14 +6,15 @@ Welcome to my Github Profile!
 
 ![Uploading vmd.gif…]()
 
-### 🌱 My Contributions So Far!
-![github stats](https://github-readme-stats.vercel.app/api?username=hadarpinhas&show_icons=true)
-
 ### 📝 My Latest Blog Post on Medium
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hadarpinhas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hadarpinhas/0" alt="Recent Article 0"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hadarpinhas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hadarpinhas/1" alt="Recent Article 1"></a> <br>
 
 <!--
+
+### 🌱 My Contributions So Far!
+![github stats](https://github-readme-stats.vercel.app/api?username=hadarpinhas&show_icons=true)
+
 **hadarpinhas/hadarpinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
