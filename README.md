@@ -1,4 +1,4 @@
-# Hadar Pinhas &mdash; @hadarpinhas
+# Hadar Pinhas
 
 Hi! I'm Hadar!
 
