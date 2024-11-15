@@ -4,7 +4,7 @@ Hi! I'm Hadar!
 
 Welcome to my Github Profile!
 
-![Uploading vmd.gif…]()
+![Uploading vmd-ezgif.com-optimize.gif…]()
 
 ### 📝 My Latest Blog Post on Medium
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hadarpinhas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hadarpinhas/0" alt="Recent Article 0"></a>
