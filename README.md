@@ -3,6 +3,7 @@
 Hi! I'm Hadar!
 
 Welcome to my Github Profile!
+
 ![Uploading 1730318234283.gif…]()
 
 ### 🌱 My Contributions So Far!
